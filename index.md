@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Luiz Fernando's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Luiz Fernando Segala Gomez
+Production engineer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="luizfernandolfsg@gmail.com">luizfernandolfsg@gmail.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
