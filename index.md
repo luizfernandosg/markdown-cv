@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: CV
 title: Luiz Fernando's CV
 ---
 # Luiz Fernando Segala Gomez
