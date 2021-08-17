@@ -3,7 +3,7 @@ layout: vfy
 title: Luiz Fernando's CV
 ---
 # Luiz Fernando Segala Gomez
-Production engineer.
+Production engineer und SCHEISSER
 
 <div id="webaddress">
 <a href="luizfernandolfsg@gmail.com">luizfernandolfsg@gmail.com</a>
