@@ -1,5 +1,5 @@
 ---
-layout: kjhealy
+layout: vfy
 title: Luiz Fernando's CV
 ---
 # Luiz Fernando Segala Gomez
